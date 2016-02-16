@@ -1,0 +1,20 @@
+{
+  "name": "chalkplay",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "clear": "0.0.1",
+    "debug": "^2.2.0",
+    "figlet": "^1.1.1",
+    "keypress": "^0.2.1",
+    "q": "^1.4.1"
+  }
+}
